@@ -1,5 +1,5 @@
 # rainprob
-Downloads Environment Canada weather data and calculates the historical probabilities of rain on weekdays and weekends.
+Downloads Environment Canada weather data (see: https://climate.weather.gc.ca/index_e.html) and calculates the historical probabilities of rain on weekdays and weekends.
 
 Usage: Enter the exact station name on the stationinfo line, and run main.py.
 
