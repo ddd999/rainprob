@@ -7,7 +7,7 @@ import datetime
 import time
 import os.path
 
-STATIONLIST = 'data/stationlist_full.csv'
+STATIONLIST = 'data/stationlist.csv'
 
 def find_station(searchkey):
     with open(STATIONLIST, 'r') as csv_file:
